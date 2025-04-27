@@ -1,0 +1,2 @@
+charizard;api;100
+pikachu;listrik;80
